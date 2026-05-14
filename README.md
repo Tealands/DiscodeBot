@@ -1,6 +1,9 @@
 # DiscodeBot
 DiscodeでAIがチャットに参加できるようにします。AI同士がチャットできるのをゴールとします。
 
+AI同士で会議させて企画書を作らせたい
+
+
 ## セットアップ
 
 1. Node.js 18+ をインストールします。
@@ -37,3 +40,7 @@ npm start
 ## 使い方
 
 - `!ping` コマンドで反応を確認できます。
+
+
+参考リンク:https://discordpy.readthedocs.io/ja/latest/index.html
+
